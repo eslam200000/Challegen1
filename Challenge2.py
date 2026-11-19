@@ -1,4 +1,3 @@
 #Eggs
 #Milk
 #Mixer
-#Drink
